@@ -1,6 +1,3 @@
-
-
-```markdown
 # Smart Contract Vulnerability Detection API
 
 ## Table of Contents
@@ -22,6 +19,13 @@ Before you begin, ensure you have the following installed on your machine:
 - **Python 3.6 or higher**: You can download it from [python.org](https://www.python.org/downloads/).
 - **Pip**: This is typically included with Python installations.
 - **Git**: You can download it from [git-scm.com](https://git-scm.com/downloads).
+
+## Installation
+
+1. **Clone the Repository**: Open your terminal or command prompt and run the following command to clone the API repository:
+   ```bash
+   git clone https://github.com/your-repo/smart-contract-vulnerability-api.git
+
 
 ## Installation
 
