@@ -124,7 +124,7 @@ After sending the request, you will receive a response that looks similar to thi
 - **features**: An array of extracted features based on the findings.
 - **suggestions**: An array of actionable suggestions for mitigating the issues detected.
 
-## Screenshots of Postman Requests and Responses
+## Screenshots of   Requests and Responses in our rest API
  
 
 ### 2. Sending the Request in our API and Response
