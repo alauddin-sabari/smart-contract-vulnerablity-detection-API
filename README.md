@@ -127,8 +127,9 @@ After sending the request, you will receive a response that looks similar to thi
 ## Screenshots of Postman Requests and Responses
  
 
-### . Sending the Request in our API and response 
-![Postman Sending Request]([[https://github.com/your-repo/path-to-your-screenshot/sending-request.png](https://github.com/alauddin-sabari/smart-contract-vulnerablity-detection-API/blob/main/postman_request_response.jpg](https://github.com/alauddin-sabari/smart-contract-vulnerablity-detection-API/blob/main/postman_request_response.jpg))
+### 2. Sending the Request in our API and Response
+![Postman Sending Request](https://github.com/alauddin-sabari/smart-contract-vulnerablity-detection-API/blob/main/postman_request_response.jpg)
+
 
  
 ## Future Work
